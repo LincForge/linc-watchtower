@@ -1,0 +1,6 @@
+schema_version: 1
+identity:
+  name: linc-watchtower
+  package: com.lincforge.watchtower
+  display_name: LINC Watchtower
+  app_type: tool
